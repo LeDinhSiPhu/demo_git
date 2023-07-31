@@ -6,4 +6,9 @@
 + Đẩy : git remote add origin https://github.com/LeDinhSiPhu/demo_git.git (link GIT)
         lần đầu ~ git push -u origin master
         lần 2 trở lên ~ git push
-        
+
+
+*Branch (nhánh)
+_Tạo nhánh: git checkout -b login
+_Chuyển nhánh: git checkout master
+
