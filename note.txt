@@ -3,4 +3,7 @@
 - Push code từ local len remote : 3 bước
 + Chọn : git add -A (git status: show thông tin)
 + Xác nhận : git commit -m "noi dung commit" , git log : check thong tin 
-+ Đẩy 
++ Đẩy : git remote add origin https://github.com/LeDinhSiPhu/demo_git.git (link GIT)
+        lần đầu ~ git push -u origin master
+        lần 2 trở lên ~ git push
+        
