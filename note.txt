@@ -1,0 +1,6 @@
+- Khởi tạo repository : git init
+
+- Push code từ local len remote : 3 bước
++ Chọn : git add -A (git status: show thông tin)
++ Xác nhận : git commit -m "noi dung commit" , git log : check thong tin 
++ Đẩy 
